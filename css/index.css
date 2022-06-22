@@ -8,6 +8,9 @@ header{
 	display: flex;
 	flex-direction:row; 
 	justify-content: center;
+	background: #1E1F1E;
+	color: white;
+	align-content: center;
 }
 header>div{
 	margin: 45px;
