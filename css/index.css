@@ -72,6 +72,7 @@ table{
 tr,td{
 	border: none;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: auto;
 }
 .fechaLabor{
 	width: 165px;
@@ -80,4 +81,7 @@ main{
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+}
+.espacio{
+	width: 555px;
 }
